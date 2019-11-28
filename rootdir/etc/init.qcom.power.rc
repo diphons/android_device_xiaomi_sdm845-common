@@ -220,6 +220,9 @@ on enable-low-power
 
     start vendor.per_proxy
 
+    # ZRAM parameters
+    write /sys/block/zram0/disksize 1073741824
+
     start dcvs-sh
 
 on property:sys.boot_completed=1
