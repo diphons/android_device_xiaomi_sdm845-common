@@ -82,6 +82,9 @@ on post-fs
 
     write /dev/ipa 1
 
+    # make the selinux kernel policy world-readable
+    chmod 0444 /sys/fs/selinux/policy
+
 on late-fs
     mount_all /vendor/etc/fstab.qcom --late
 
