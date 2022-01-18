@@ -47,12 +47,14 @@
         android:entryValues="@array/scenario_selector_values"
         android:defaultValue="4"
         android:title="@string/music_headset_scenario_select"
-        android:summary="%s" />
+        android:summary="%s"
+        android:icon="@drawable/ic_scenes" />
 
     <SwitchPreference
         android:key="dirac_hifi_pref"
         android:defaultValue="false"
         android:title="@string/dirac_hifi_title"
-        android:summary="@string/dirac_hifi_summary"/>
+        android:summary="@string/dirac_hifi_summary"
+        android:icon="@drawable/ic_hifi" />
 
 </PreferenceScreen>
