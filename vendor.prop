@@ -122,6 +122,8 @@ ro.crypto.volume.filenames_mode=aes-256-cts
 # Display post-processing
 ro.vendor.display.cabl=2
 debug.sf.disable_client_composition_cache=1
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
 
 # DPM
 persist.vendor.dpm.idletimer.mode=default
