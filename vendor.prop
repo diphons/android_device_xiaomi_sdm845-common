@@ -137,6 +137,7 @@ ro.frp.pst=/dev/block/bootdevice/by-name/frp
 debug.egl.hw=0
 debug.sf.enable_transaction_tracing=false
 debug.sf.hw=0
+debug.sf.treat_170m_as_sRGB=1
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
 ro.opengles.version=196610
