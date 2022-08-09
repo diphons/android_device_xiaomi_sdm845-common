@@ -697,7 +697,7 @@ vendor/lib/rfsa/adsp/libscveBlobDescriptor_skel.so|637e3c05ff05fb62ff9eede4ba394
 vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so|44ee517f73908376a226f02a1ecd7ab22e5ae6ca
 vendor/lib/rfsa/adsp/libscveT2T_skel.so|378a152d7683e55375ec7a06eabe796c95b90c98
 vendor/lib/libfastcvdsp_stub.so|6ccfd797a035075db44aaf288a87d1eb041288b7
-vendor/lib/libfastcvopt.so|6c2c1c72b99428aa6e76660fe4ccd2bca6517c48
+-vendor/lib/libfastcvopt.so|6c2c1c72b99428aa6e76660fe4ccd2bca6517c48
 vendor/lib/libscveBlobDescriptor.so|ee45670c33ff150ad8863eb81ac6eae130f75236
 vendor/lib/libscveBlobDescriptor_stub.so|6a67382a5df168279738647a95c7f0ab864c5cc3
 vendor/lib/libscveCommon.so|c5b1f38d06b51573043a8ba943d36fdf70875f39
@@ -710,7 +710,7 @@ vendor/lib/libscvePanorama.so|af881ba79ff195931d721810c3b57cdb8b61065b
 vendor/lib/libscvePanorama_lite.so|8f3543a2000d5432748157cd772cac714274c53f
 vendor/lib/libscveScan3D.so|cb893cdbd865d28fc873012ff139cffc3ea58431
 vendor/lib64/libfastcvdsp_stub.so|de764c199026839848cdc803ed5cb2d8a51ad9b9
-vendor/lib64/libfastcvopt.so|dcbd38864009f985e98f8eaea10bb2658385995a
+-vendor/lib64/libfastcvopt.so|dcbd38864009f985e98f8eaea10bb2658385995a
 vendor/lib64/libscveBlobDescriptor.so|afac314d971d53ff7eac4fca305cdf372a7c94b3
 vendor/lib64/libscveBlobDescriptor_stub.so|1ef52c8d21c6c76344d5360059e039bcae9f66d3
 vendor/lib64/libscveCommon.so|1b68d8220632d3dacf55ee78b4f4629c68e501d2
@@ -732,8 +732,8 @@ vendor/lib64/vendor.qti.hardware.soter@1.0.so
 
 # Thermal engine
 vendor/bin/thermal-engine
-vendor/lib64/libthermalclient.so
-vendor/lib/libthermalclient.so
+-vendor/lib64/libthermalclient.so
+-vendor/lib/libthermalclient.so
 
 # Time services - from PNX - RKQ1.200906.002
 vendor/app/TimeService/TimeService.apk|2e5301dbe5f494c90f602577478f59e0452506b8
