@@ -104,7 +104,7 @@ persist.vendor.qcom.bluetooth.twsp_state.enabled=false
 vendor.qcom.bluetooth.soc=cherokee
 
 # Camera
-vendor.camera.aux.packagelist=com.android.camera,org.derpfest.flash
+vendor.camera.aux.packagelist=com.android.camera,org.pixelexperience.faceunlock,org.derpfest.flash
 
 # Charger
 ro.charger.enable_suspend=true
