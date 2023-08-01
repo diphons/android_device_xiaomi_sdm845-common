@@ -106,7 +106,10 @@ ro.bluetooth.a2dp_offload.supported=true
 vendor.qcom.bluetooth.soc=cherokee
 
 # Camera
-vendor.camera.aux.packagelist=com.android.camera,org.codeaurora.snapcam,org.lineageos.aperture,org.lineageos.aperture.dev
+vendor.camera.aux.packagelist=com.android.camera,org.codeaurora.snapcam,org.derpfest.flash
+
+# Charger
+ro.charger.enable_suspend=true
 
 # Chipset
 ro.soc.manufacturer=Qualcomm
