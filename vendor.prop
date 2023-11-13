@@ -106,9 +106,6 @@ vendor.qcom.bluetooth.soc=cherokee
 # Camera
 vendor.camera.aux.packagelist=com.android.camera,org.pixelexperience.faceunlock,org.derpfest.flash
 
-# Charger
-ro.charger.enable_suspend=true
-
 # Chipset
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SDM845
