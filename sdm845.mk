@@ -431,8 +431,7 @@ PRODUCT_COPY_FILES += \
 # WiFi Display
 PRODUCT_PACKAGES += \
     libnl \
-    libwfdaac_vendor \
-    vendor.qti.hardware.display.config-V5-ndk
+    libwfdaac_vendor
 
 PRODUCT_BOOT_JARS += \
     WfdCommon
